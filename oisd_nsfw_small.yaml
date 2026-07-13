@@ -1,9 +1,9 @@
-# Version: 202607130225
+# Version: 202607131308
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 19389
-# Last modified: 2026-07-13T02:25:29+0000
+# Entries: 19397
+# Last modified: 2026-07-13T13:08:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,0xxx.ws
   - DOMAIN-SUFFIX,1000fapvids.com
   - DOMAIN-SUFFIX,1000giribest.com
+  - DOMAIN-SUFFIX,1000love.net
   - DOMAIN-SUFFIX,1000novel.com
   - DOMAIN-SUFFIX,1000pornmovies.com
   - DOMAIN-SUFFIX,1000porno.net
@@ -118,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,1baiser.com
   - DOMAIN-SUFFIX,1bigboss.com
   - DOMAIN-SUFFIX,1bigclub.com
+  - DOMAIN-SUFFIX,1bk.net
   - DOMAIN-SUFFIX,1boyz.com
   - DOMAIN-SUFFIX,1classtube.com
   - DOMAIN-SUFFIX,1filmyfly.online
@@ -135,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,1pornxxx.cc
   - DOMAIN-SUFFIX,1publicagent.com
   - DOMAIN-SUFFIX,1q.org
+  - DOMAIN-SUFFIX,1redbook.com
   - DOMAIN-SUFFIX,1sextube.com
   - DOMAIN-SUFFIX,1shemaleporn.cc
   - DOMAIN-SUFFIX,1sisdj-chihuahua-2024.com.mx
@@ -215,6 +218,7 @@ payload:
   - DOMAIN-SUFFIX,321sexchat.com
   - DOMAIN-SUFFIX,33rdtadalafilst.com
   - DOMAIN-SUFFIX,34nda.com
+  - DOMAIN-SUFFIX,360kan.com
   - DOMAIN-SUFFIX,365fucks.com
   - DOMAIN-SUFFIX,365pornmovs.com
   - DOMAIN-SUFFIX,36717.info
@@ -324,6 +328,7 @@ payload:
   - DOMAIN-SUFFIX,5gays.com
   - DOMAIN-SUFFIX,5i87.top
   - DOMAIN-SUFFIX,5kporn.com
+  - DOMAIN-SUFFIX,5movierulz.capital
   - DOMAIN-SUFFIX,5movierulz.soccer
   - DOMAIN-SUFFIX,5porno.net
   - DOMAIN-SUFFIX,5porno.top
@@ -372,6 +377,7 @@ payload:
   - DOMAIN-SUFFIX,7porno.online
   - DOMAIN-SUFFIX,7sexvideos.com
   - DOMAIN-SUFFIX,7sky.life
+  - DOMAIN-SUFFIX,7starhd.ngo
   - DOMAIN-SUFFIX,7starhd.org
   - DOMAIN-SUFFIX,7starhd.space
   - DOMAIN-SUFFIX,7sttarhd.forum
@@ -1488,6 +1494,7 @@ payload:
   - DOMAIN-SUFFIX,avreview24.com
   - DOMAIN-SUFFIX,avsamples.com
   - DOMAIN-SUFFIX,avsox.click
+  - DOMAIN-SUFFIX,avspolme.com
   - DOMAIN-SUFFIX,avsubthai.cv
   - DOMAIN-SUFFIX,avsubthai.mov
   - DOMAIN-SUFFIX,avsubthai3.com
@@ -10547,6 +10554,7 @@ payload:
   - DOMAIN-SUFFIX,nancooks.com
   - DOMAIN-SUFFIX,nangcuc.art
   - DOMAIN-SUFFIX,nangcuc.cv
+  - DOMAIN-SUFFIX,nangcuc.ws
   - DOMAIN-SUFFIX,nangcuctv.skin
   - DOMAIN-SUFFIX,nangded.com
   - DOMAIN-SUFFIX,nangiladki2.com
