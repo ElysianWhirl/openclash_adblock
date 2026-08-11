@@ -1,9 +1,9 @@
-# Version: 202608101133
+# Version: 202608110106
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 21219
-# Last modified: 2026-08-10T11:33:39+0000
+# Entries: 21223
+# Last modified: 2026-08-11T01:06:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8203,6 +8203,7 @@ payload:
   - DOMAIN-SUFFIX,hxhani.com
   - DOMAIN-SUFFIX,hycams.com
   - DOMAIN-SUFFIX,hymparhub.com.br
+  - DOMAIN-SUFFIX,hyper.hosting
   - DOMAIN-SUFFIX,hypnohub.net
   - DOMAIN-SUFFIX,hypnopics-collective.net
   - DOMAIN-SUFFIX,hypnoporn.net
@@ -8237,6 +8238,7 @@ payload:
   - DOMAIN-SUFFIX,ibradome.com
   - DOMAIN-SUFFIX,icanalog.com
   - DOMAIN-SUFFIX,icanhazchat.com
+  - DOMAIN-SUFFIX,icczz.gr
   - DOMAIN-SUFFIX,ice-gay.com
   - DOMAIN-SUFFIX,iceflix.tv
   - DOMAIN-SUFFIX,icegay.tv
@@ -9356,6 +9358,7 @@ payload:
   - DOMAIN-SUFFIX,jyukujyowareme.com
   - DOMAIN-SUFFIX,jyukusiri.net
   - DOMAIN-SUFFIX,k-mib.com
+  - DOMAIN-SUFFIX,k076.top
   - DOMAIN-SUFFIX,k2s.club
   - DOMAIN-SUFFIX,k2sporn.net
   - DOMAIN-SUFFIX,k2sprn.com
@@ -9367,6 +9370,7 @@ payload:
   - DOMAIN-SUFFIX,kabinedasnovinhas.com
   - DOMAIN-SUFFIX,kabomov.cc
   - DOMAIN-SUFFIX,kademov.cc
+  - DOMAIN-SUFFIX,kadikoyescorthatun.com
   - DOMAIN-SUFFIX,kadinguzelligi.com
   - DOMAIN-SUFFIX,kaditv.cc
   - DOMAIN-SUFFIX,kagari.moe
@@ -9798,6 +9802,7 @@ payload:
   - DOMAIN-SUFFIX,laudtube.com
   - DOMAIN-SUFFIX,laufhaus-gt.at
   - DOMAIN-SUFFIX,lavideodujourjetm.net
+  - DOMAIN-SUFFIX,laviniafansub.shop
   - DOMAIN-SUFFIX,lazycat.net
   - DOMAIN-SUFFIX,lazymike.com
   - DOMAIN-SUFFIX,lbanez.net
@@ -20300,7 +20305,6 @@ payload:
   - DOMAIN-SUFFIX,xxx-tracker.com
   - DOMAIN-SUFFIX,xxx-tube-list.info
   - DOMAIN-SUFFIX,xxx-tube-movie.com
-  - DOMAIN-SUFFIX,xxx-tube.cfd
   - DOMAIN-SUFFIX,xxx-tube.monster
   - DOMAIN-SUFFIX,xxx-tubeasian.com
   - DOMAIN-SUFFIX,xxx-video-hub.com
